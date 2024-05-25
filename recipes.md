@@ -50,15 +50,15 @@ Instructions:
 ### Spaghetti and Meatballs
 
 Ingredients:
-- 1 pound spaghetti
-- 1 pound ground beef
+- 2 pound spaghetti
+- 2 pound ground beef
 - 1/2 cup bread crumbs
 - 1/4 cup milk
 - 1/4 cup grated Parmesan cheese
-- 1 egg
-- 2 cloves garlic, minced
+- 2 egg
+- 4 cloves garlic, minced
 - Salt and pepper to taste
-- 1 jar (24 oz) spaghetti sauce
+- 2 jar (24 oz) spaghetti sauce
 
 Instructions:
 1. Cook spaghetti according to package instructions.
@@ -72,9 +72,9 @@ Instructions:
 ### Grilled Chicken Sandwich
 
 Ingredients:
-- 2 boneless, skinless chicken breasts
+- 4 boneless, skinless chicken breasts
 - Salt and pepper to taste
-- 2 tablespoons olive oil
+- 3 tablespoons olive oil
 - 4 slices Swiss cheese
 - 4 hamburger buns
 - Lettuce
