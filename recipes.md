@@ -103,6 +103,17 @@ Ingredients:
 - 4 tsp vanilla extract
 - 4 cups semisweet chocolate chips
 
+
+## Welcome Drink
+### Lime juice
+
+Ingredients:
+- 1 glass water 
+- 2 spoon of sugar
+- 1/2 Lemon
+- 1 pinch of salt
+
+
 Instructions:
 1. Preheat oven to 375°F (190°C).
 2. Combine flour, baking soda, and salt in a bowl.
